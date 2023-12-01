@@ -7,6 +7,10 @@ header img {
 
 /*Conteudo principal*/
 
+#section-banners img {
+    height: 550px;
+    width: 100%;
+}
 
 /*banner*/
 
